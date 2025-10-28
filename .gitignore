@@ -1,0 +1,10 @@
+# Compiled files
+*.o
+a.out
+
+# Program name
+pixel-painter
+
+# System and editor files
+.DS_Store
+.vscode/
