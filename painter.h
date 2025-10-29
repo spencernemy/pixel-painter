@@ -2,7 +2,7 @@
 
 #define SIZE 5
 
-// Function headers
+// Function prototypes
 void initializeImage(int image[SIZE][SIZE]);
 int drawPixel(int image[SIZE][SIZE], int row, int col);
 int erasePixel(int image[SIZE][SIZE], int row, int col);
